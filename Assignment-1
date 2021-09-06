@@ -1,0 +1,718 @@
+[{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": Cafeteria Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Cafeteria Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Bake",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Cafeteria Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Garris Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "karris Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Homein Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Cake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Torris Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Morris Bake Shop",
+
+"restaurant_id": "30075445"
+
+},
+{
+
+"address": {
+
+"building": "1007",
+
+"coord": [ -73.856077, 40.848447 ],
+
+"street": "Mall Road Mussorrie",
+
+"zipcode": "10462"
+
+},
+
+"cuisine": "Bakery",
+
+"grades": [
+
+{ "date": { "$date": 1393804800000 }, "grade": "A", "score": 2 },
+
+{ "date": { "$date": 1378857600000 }, "grade": "A", "score": 6 },
+
+{ "date": { "$date": 1358985600000 }, "grade": "A", "score": 10 },
+
+{ "date": { "$date": 1322006400000 }, "grade": "A", "score": 9 },
+
+{ "date": { "$date": 1299715200000 }, "grade": "B", "score": 14 }
+
+],
+
+"name": "Jerry Bake Shop",
+
+"restaurant_id": "30075445"
+
+}]
+
+
+
+db.restaurant.find({},{"restaurant_id" : 1,"name":1,"address.zipcode" :1,"_id":0});
+
+db.restaurant.find().sort({"name":1});
+
+db.restaurant.find({"name"}).sort({"name":"1"}).limit(5);
+
+db.restaurant.skip(5).limit(5);
+
+db.restaurant.find({grade : { $elemMatch:{"score":{$gt : 90}}}});
+
+db.restaurant.find({grade : { $elemMatch:{"score":{$gt : 80 , $lt :100}}}});
+
+db.restaurant.find({ name : { $regex : /^Caf/i, } },{"name":1, "address.coord":1, "cuisine" :1 });
+
+db.restaurant.update({grades :  "A" });
